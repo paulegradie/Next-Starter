@@ -1,0 +1,21 @@
+@import 'styles/theme.scss';
+
+.card {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 16px;
+    font-family: "Roboto";
+    text-align: justify;
+    text-justify: inter-word;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 400;
+    color: #333
+}
+
+.img {
+    object-fit: cover;
+    object-position: center 65%;
+    width: 100%;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.25rem .5rem rgba(0, 0, 0, 0.2);
+}

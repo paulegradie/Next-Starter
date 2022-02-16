@@ -1,0 +1,27 @@
+@import 'styles/theme.scss';
+
+.container {
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: $background-default;
+    padding-bottom: 4rem;
+    box-shadow: $shadow-default;
+}
+.paddlessContainer {
+    background-color: $background-default;
+    padding-bottom: 4rem;
+    box-shadow: $shadow-default;
+}
+
+.text {
+    padding-top: 15rem;
+    padding-bottom: 15rem;
+}
+
+.img {
+    width: 100%;
+    padding-top: 0.5rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    border-radius: 15px;
+}

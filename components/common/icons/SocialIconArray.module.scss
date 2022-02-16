@@ -1,0 +1,17 @@
+@import 'styles/theme.scss';
+
+.socialIcon {
+    fill: $white;
+    background-color: #33383b;
+    border-radius: $borderRadius;
+}
+
+.socialIcon:hover {
+    background-color: $primary-light;
+}
+
+.icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

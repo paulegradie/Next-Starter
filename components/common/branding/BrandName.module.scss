@@ -1,0 +1,25 @@
+@import 'styles/theme.scss';
+
+.logowrap {
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+}
+
+.logotypography {
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+    border: 3px solid $success-light;
+    padding-top: 0.3rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+    border-radius: 12px;
+}
+
+.brandText {
+    color: $success-main;
+    cursor: pointer;
+    font-size: 56px;
+}

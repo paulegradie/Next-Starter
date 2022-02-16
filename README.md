@@ -1,2 +1,5 @@
-# Next-Starter
-NextJs and Mui5 starter template
+# IrajTutoring.com
+
+Prism themes for syntax highlighting:
+https://github.com/PrismJS/prism-themes/tree/master/themes
+
